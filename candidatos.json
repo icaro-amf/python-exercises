@@ -1,0 +1,17 @@
+{
+    "Ana": {
+        "idade": "32",
+        "naturalidade": "Minas Gerais",
+        "votos": 0
+    },
+    "João": {
+        "idade": "32",
+        "naturalidade": "Minas Gerais",
+        "votos": 0
+    },
+    "Carlos": {
+        "idade": "32",
+        "naturalidade": "Minas Gerais",
+        "votos": 0
+    }
+}
